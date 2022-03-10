@@ -1,0 +1,134 @@
+.head {
+    background-image: url('img/bisa.jpg');
+    width: 100%;
+    height: 530px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #613A43;
+    background-color: rgb(227, 186, 179);
+    word-spacing: 10px;
+    letter-spacing: 7px;
+
+}
+
+.image {
+    background: url("img/fot3.jpg") center center no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.image2 {
+    background: url("img/yuk.png") center center no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+
+.cotact {
+    background: rgb(227, 186, 179);
+    background: linear-gradient(0deg, rgba(227, 186, 179, 0.8972631288843662) 71%, rgba(97, 58, 67, 0.8748541652989321) 100%);
+}
+
+body {
+    background-color: rgb(227, 186, 179);
+}
+
+.skill {
+    background: rgb(227, 186, 179);
+    background: linear-gradient(0deg, rgba(227, 186, 179, 0.8972631288843662) 71%, rgba(97, 58, 67, 0.8748541652989321) 100%);
+
+}
+
+.education {
+    background: rgb(227, 186, 179);
+    background: linear-gradient(0deg, rgba(227, 186, 179, 0.8972631288843662) 71%, rgba(97, 58, 67, 0.8748541652989321) 100%);
+}
+
+.kontak {
+    background: rgb(227, 186, 179);
+    background: linear-gradient(0deg, rgba(227, 186, 179, 0.8972631288843662) 71%, rgba(97, 58, 67, 0.8748541652989321) 100%);
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+}
+
+.btn {
+    background-color: #613A43;
+}
+
+.scrollto {
+    width: 50px;
+    height: 50px;
+    color: #613A43;
+}
+
+.scrollto:hover {
+    color: #E9dccd;
+}
+
+.tulis {
+    color: #36384c;
+    font-family: sans-serif;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #613A43;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: rgb(227, 186, 179);
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#navbar a:hover {
+    background-color: #E9dccd;
+    color: #613A43;
+}
+
+#navbar a.active {
+    background-color: #613A43;
+    color: #E9dccd;
+}
+
+.content {
+    padding: 16px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky+.content {
+    padding-top: 60px;
+}
+
+.footer {
+    background-color: #613A43;
+    color: rgb(227, 186, 179);
+}
+
+.top {
+    color: #613A43;
+}
+
+.top:hover {
+    color: #E9dccd;
+}
+
+.top.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.pro {
+    background-color: #849974;
+}
