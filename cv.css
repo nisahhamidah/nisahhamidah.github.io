@@ -4,9 +4,10 @@
     height: 530px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #613A43;
-    background-color: rgb(227, 186, 179);
     word-spacing: 10px;
-    letter-spacing: 7px;
+    letter-spacing: 5px;
+    font-size: 50px;
+    text-shadow:5px 4px 3px #E9dccd;
 
 }
 
