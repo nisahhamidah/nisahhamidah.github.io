@@ -44,8 +44,8 @@ body {
 }
 
 .kontak {
-    background: rgb(227, 186, 179);
-    background: linear-gradient(0deg, rgba(227, 186, 179, 0.8972631288843662) 71%, rgba(97, 58, 67, 0.8748541652989321) 100%);
+   background: rgb(227,186,179);
+   background: linear-gradient(0deg, rgba(227,186,179,0.8972631288843662) 89%, rgba(97,58,67,0.8748541652989321) 100%);
 }
 
 .navbar {
